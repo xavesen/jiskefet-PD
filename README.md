@@ -2,7 +2,7 @@
 
 Проект - сотруднечество с Университетом прикладных наук Амстердама. Наша команда работала над одной из задач, которую предоставил заказчик: получение и отображение дополнительных данных на станице описания одного из объектов.
 
-Сайт о разработке проекта: jiskefet.std-827.ist.mospolytech.ru<br>
+Сайт о разработке проекта: http://jiskefet.std-827.ist.mospolytech.ru<br>
 Fork jiskefet-api (см. ветка develop): https://github.com/xavesen/jiskefet-api<br>
 Fork jiskefet-ui (см. ветка develop): https://github.com/xavesen/jiskefet-ui
 
